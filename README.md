@@ -1,4 +1,4 @@
-# **Arduino**
+# ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) **Arduino**
 
 Espaço para desenvolvimento de orientações a respeito do uso da plataforma Arduino em projetos de Engenharia Mecânica.
 
@@ -17,7 +17,7 @@ Obviamente, se você é o projetista/construtor de um sistema baseado no Arduín
 ## O que pode ser feito com Arduino?
 O Arduíno permite criar uma infinidade de aplicações que vão desde o controle de múltiplos sensores e transdutores, inclusive registrando as medidas coletadas, até efetuar o acionamento/controle de dispositivos tais como motores e reles, e/ou dispositivos robóticos. A comunidade do Arduíno é bastante ativa e o tempo todo está criando novas aplicações para esta plataforma, conforme pode ser visto no [Site oficial do Arduino](https://www.arduino.cc/).
 
-Nos links [built-in examples](https://docs.arduino.cc/built-in-examples/) e [libray-examples](https://docs.arduino.cc/library-examples/) podem ser encontrados várias pequenas aplicações de Arduíno com esquemas detalhados de montagem da placa e código de programa.
+Nos links [built-in examples](https://docs.arduino.cc/built-in-examples/) e [libray-examples](https://docs.arduino.cc/library-examples/) podem ser encontrados vários exemplos de pequenas aplicações de Arduíno com esquemas detalhados de montagem da placa e código de programa no [Site oficial do Arduino](https://www.arduino.cc/).
 
 
 
@@ -28,6 +28,9 @@ Nos links [built-in examples](https://docs.arduino.cc/built-in-examples/) e [lib
     - Se você pretende trabalhar offline, pode instalar o software para desenvolvimento em seu computador, fazendo o **download** pelo link: [desktop IDE](https://www.arduino.cc/en/Main/Software#download)
 
 
+## Projetos Utilizados em Aula
+
++ [Projeto 01: *TERMÔMETRO DIGITAL BASEADO EM ARDUINO*]()
 
 ## Sites de interesse
 + [Site oficial do Arduino](https://www.arduino.cc/)
