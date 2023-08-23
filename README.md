@@ -1,6 +1,6 @@
 # **Arduino**
 
-Espaço para desenvolvimento de orientações a respeito do uso da plataforma Arduino.
+Espaço para desenvolvimento de orientações a respeito do uso da plataforma Arduino em projetos de Engenharia Mecânica.
 
 ## O que é o Arduino?
 Arduino é uma pequena placa de circuito que tem um potencial gigantesco. Pode ser tanto hardware quanto software (NUSSEY, 2019). Em termos práticos, um Arduino é um pequeno computador que você pode programar para processar entradas e saídas entre o dispositivo e os componentes externos conectados a ele (McROBERTS, 2011).
