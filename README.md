@@ -5,6 +5,9 @@ Espaço para desenvolvimento de orientações a respeito do uso da plataforma Ar
 ## O que é o Arduino?
 Arduino é uma pequena placa de circuito que tem um potencial gigantesco. Pode ser tanto hardware quanto software (NUSSEY, 2019). Em termos práticos, um Arduino é um pequeno computador que você pode programar para processar entradas e saídas entre o dispositivo e os componentes externos conectados a ele (McROBERTS, 2011).
 
+![image](https://github.com/LPATROCINIO1969/Arduino/assets/79651078/486fa97a-5af3-4019-bb10-cbbcbddc0450)
+
+
 ## O que pode ser feito com Arduino?
 
 ## Objetivos
