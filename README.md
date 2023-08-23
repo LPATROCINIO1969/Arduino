@@ -18,7 +18,11 @@ Obviamente, se você é o projetista/construtor de um sistema baseado no Arduín
 
 ## Objetivos
 
-## Orientações para o Projeto em Arduino
+## Orientações Gerais para um Projeto em Arduino
+
+1. Antes de começar qualquer projeto em Arduíno você precisa de um ambiente de programação do Arduíno em seu computador ou notebook. Neste ambiente você poderá desenvolver o programa de controle da placa. Para isso, há duas formas de proceder:
+    - Se você tem conexão com a internet, pode **acessar** um ambiente de programação online disponível neste link: [online IDE Arduino](https://create.arduino.cc/editor)
+    - Se você pretende trabalhar offline, pode instalar o software para desenvolvimento em seu computador, fazendo o **download** pelo link: [desktop IDE](https://www.arduino.cc/en/Main/Software#download)
 
 ## Teste da implementação em Arduino
 
