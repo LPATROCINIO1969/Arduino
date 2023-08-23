@@ -30,7 +30,7 @@ Nos links [built-in examples](https://docs.arduino.cc/built-in-examples/) e [lib
 
 ## Projetos Utilizados em Aula
 
-+ [Projeto 01: *TERMÔMETRO DIGITAL BASEADO EM ARDUINO*]()
++ [Projeto 01: *TERMÔMETRO DIGITAL BASEADO EM ARDUINO*](https://github.com/LPATROCINIO1969/Arduino/blob/main/TermometroDigital_01.md)
 
 ## Sites de interesse
 + [Site oficial do Arduino](https://www.arduino.cc/)
