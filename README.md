@@ -15,20 +15,24 @@ O Arduíno é uma plataforma de computação física ou **embarcada**, ou seja, 
 Obviamente, se você é o projetista/construtor de um sistema baseado no Arduíno, terá que fazer as ligações físicas e posteriormente desenvolver o software para tarefa específica a ser realizada pelo seu projeto. Porém, o aspecto interessante do Arduíno é sua facilidade para implementar tanto as ligações físicas em hardware, quanto para criar o programa de computador que irá controlar o sistema. Isto tornou essa plataforma muito popular entre os Makers de final de semana, estudantes de nível médio e superior, pois não é necessário conhecimento aprofundado de eletrônica digital para criar pequenos projetos em Arduíno. Além disso, muitas plataformas similares ao Arduíno, além de clones (Beduíno, Induíno, Microduíno, etc.), foram criadas e também podem ser usadas para o desenvolver projetos baseados na plataforma Arduíno.
 
 ## O que pode ser feito com Arduino?
+O Arduíno permite criar uma infinidade de aplicações que vão desde o controle de múltiplos sensores e transdutores, inclusive registrando as medidas coletadas, até efetuar o acionamento/controle de dispositivos tais como motores e reles, e/ou dispositivos robóticos. A comunidade do Arduíno é bastante ativa e o tempo todo está criando novas aplicações para esta plataforma, conforme pode ser visto no [Site oficial do Arduino](https://www.arduino.cc/).
 
-## Objetivos
+Nos links [built-in examples](https://docs.arduino.cc/built-in-examples/) e [libray-examples](https://docs.arduino.cc/library-examples/) podem ser encontrados várias pequenas aplicações de Arduíno com esquemas detalhados de montagem da placa e código de programa.
+
+
 
 ## Orientações Gerais para um Projeto em Arduino
 
-1. Antes de começar qualquer projeto em Arduíno você precisa de um ambiente de programação do Arduíno em seu computador ou notebook. Neste ambiente você poderá desenvolver o programa de controle da placa. Para isso, há duas formas de proceder:
+1. Antes de começar qualquer projeto em Arduíno você precisa de um **ambiente de programação do Arduíno** em seu computador. Neste ambiente você poderá desenvolver o programa de controle da placa. Para isso, há duas formas de proceder:
     - Se você tem conexão com a internet, pode **acessar** um ambiente de programação online disponível neste link: [online IDE Arduino](https://create.arduino.cc/editor)
     - Se você pretende trabalhar offline, pode instalar o software para desenvolvimento em seu computador, fazendo o **download** pelo link: [desktop IDE](https://www.arduino.cc/en/Main/Software#download)
 
-## Teste da implementação em Arduino
+
 
 ## Sites de interesse
 + [Site oficial do Arduino](https://www.arduino.cc/)
-+ 
++ [built-in examples](https://docs.arduino.cc/built-in-examples/) - lista de exemplos de aplicações básicas em Arduíno presentes na IDE do Arduíno
++ [libray-examples](https://docs.arduino.cc/library-examples/) - seleção de aplicações exemplo do Arduíno, utilizando bibliotecas específicas.
 
 ## Vídeos de interesse
 + [O que é Arduino, afinal de contas? #ManualMaker Aula 4, Vídeo 1](https://youtu.be/sv9dDtYnE1g?si=UeJtqoNw31OfbN2X)
