@@ -1,4 +1,4 @@
-# :hotsprings:Termômetro Digital
+# :hotsprings: Termômetro Digital
 ## Projeto de Aula Experimental para Termodinâmica Aplicada
 ### *Prof. Lúcio P. Patrocínio*
 ***
@@ -6,13 +6,13 @@
 +	Desenvolver um termômetro digital básico utilizando a plataforma Arduino e sensores de temperatura NTC.
 +	Realizar medidas básicas de temperatura.
 
-## :notebook:Considerações Iniciais
+## :notebook: Considerações Iniciais
 Temperatura é uma grandeza física que mensura a energia cinética média de cada grau de liberdade de cada uma das partículas de um sistema em equilíbrio térmico. A Lei Zero da Termodinâmica afirma que, se dois corpos estão em equilíbrio térmico com um terceiro corpo eles também estão em equilíbrio térmico entre si. Ao substituir o terceiro corpo por um termômetro, a lei zero pode ser reescrita como dois corpos estão em equilíbrio térmico se ambos tiverem a mesma leitura de temperatura, mesmo que não estejam em contato.
 Neste experimento utilizaremos um notebook, uma placa arduino UNO, sensores de temperatura NTC de 10 kohm (beta = 3470), e uma tela LCD JHD162A para realizar medidas de temperatura.  
 A placa Arduino é um microcontrolador de placa única baseado em um processador denominado Atmel AVR com suporte de entrada e saída para sinais digitais e analógicos. A placa arduino UNO é capaz de receber sinais digitais ou analógicos e processá-los. Para isso, a placa precisa ser programada previamente utilizando software próprio.
 Uma vez que a placa esteja fisicamente ligada ao sensor de temperatura e previamente programada, será capaz de receber os sinais de temperatura e interpretá-los adequadamente. A tela de LCD (cristal líquido) será incluída no projeto para realizar a apresentação do valor numérico da temperatura a medida em que for coletada pelo sensor.
 
-## :nut_and_bolt:Material Necessário
+## :nut_and_bolt: Material Necessário
 +	01 Notebook
 +	01 Protoboard
 +	01 Placa Arduino UNO R3
@@ -28,10 +28,10 @@ Uma vez que a placa esteja fisicamente ligada ao sensor de temperatura e previam
 +	01 Cabo USB
 
 
-## :construction_worker:Procedimento 
+## :construction_worker: Procedimento 
 ### **Etapa 1**: *Conectando o sensor de temperatura a placa Arduino*
 1. Efetuamos a montagem do sensor de temperatura NTC e da resistência de 10 kohm na protoboard conforme esquema abaixo.
-![image](https://github.com/LPATROCINIO1969/Arduino/assets/79651078/2da35ec9-66d4-422f-85d0-7c523833a1fb)
+![image](./figuras/termo_montagem_1.png)
 
 >    Observação sobre as conexões efetuadas na protoboard e na placa Arduíno:
 >    + Saída de 5V do Arduíno ligada a um dos soquetes do sensor de temperatura.
@@ -72,7 +72,7 @@ void loop() {
 
 5. Vamos proceder a inclusão de um display LCD (cristal líquido) para apresentação dos resultados de temperatura coletados pelo sensor de temperatura. A imagem abaixo ilustra apenas o Arduíno e o LCD para facilitar a visualização das ligações. Observe que os elementos colocados na etapa 1 devem continuar no projeto. A orientação das ligações no display de LCD será numerada da direita para a esquerda.
    
-![image](https://github.com/LPATROCINIO1969/Arduino/assets/79651078/afca2734-0632-4c36-bb21-6af782885f97)
+![image](./figuras/termo_montagem_2.png)
 
 >    Observação sobre as conexões efetuadas na protoboard e na placa Arduíno:
 >    + Terminal 16 do LCD é ligado ao terra (GND) do Arduino.
@@ -184,7 +184,7 @@ void mostraTempLCD(float temperature)
 
    
 
-## :books:Referências
+## :books: Referências
 + NUSSEY, J. Arduino para Leigos. Rio de Janeiro: Alta Books, 2019.
 + McROBERTS, M. Arduino Básico. São Paulo: Novatec Editora, 2011.
 + KARVINEN, Kimmo; KARVINEN, Tero. Primeiros passos com sensores: perceba o mundo usando eletrônica, arduino e raspberry pi. Novatec Editora, 2014.
