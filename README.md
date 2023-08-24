@@ -8,7 +8,7 @@ A placa Arduino é um microcontrolador de placa única baseado em um processador
 
 **Figura 1** - Placa de circuitos do Arduino Uno.
 
-![image](https://github.com/LPATROCINIO1969/Arduino/assets/79651078/486fa97a-5af3-4019-bb10-cbbcbddc0450)
+![image](./figuras/arduino.webp)
 
 O Arduíno é uma plataforma de computação física ou **embarcada**, ou seja, é um sistema que pode interagir com seu ambiente por meio de hardware e software. Por exemplo, suponha uma sistema de iluminação formado por várias luminárias distribuídas em um ambiente. Pode-se utilizar o Arduino para acender essas luzes numa ordem específica ou aleatória, em intervalos regulares de tempo, tipo o que se faz em um pisca-pisca de Natal, ou ainda como resposta a estímulos externos, semelhante a um sistema de alarme. Para isso, o Arduino se liga fisicamente por meio de suas entradas e saídas lógicas ao circuito das luminárias. Internamente, ele irá armazenar e executar um software criado especificamente para controlar as luzes das luminárias (McROBERTS, 2011).
 
