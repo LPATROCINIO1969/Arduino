@@ -188,4 +188,7 @@ void mostraTempLCD(float temperature)
 + NUSSEY, J. Arduino para Leigos. Rio de Janeiro: Alta Books, 2019.
 + McROBERTS, M. Arduino Básico. São Paulo: Novatec Editora, 2011.
 + KARVINEN, Kimmo; KARVINEN, Tero. Primeiros passos com sensores: perceba o mundo usando eletrônica, arduino e raspberry pi. Novatec Editora, 2014.
++ ELETROGATE. Termistor NTC para controle de temperatura. Acessado em 28/09/2023 em https://blog.eletrogate.com/termistor-ntc-para-controle-de-temperatura/.
++ [Calibração de sensor NTC](https://www.studocu.com/pt-br/document/universidade-federal-do-maranhao/calculo-de-reatores-quimicos/calibracao-de-um-termistor-ntc/15852537)
++ [NTC Thermistors Steinhart and Hart Equation](https://www.ametherm.com/thermistor/ntc-thermistors-steinhart-and-hart-equation)
 
